@@ -85,6 +85,6 @@ AI Engineering Student from Egypt 🇪🇬
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mhmdtmrsid-lab/mhmdtmrsid-lab/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mhmdtmrsid-lab/mhmdtmrsid-lab/output/snake.svg" />
 
 ---
