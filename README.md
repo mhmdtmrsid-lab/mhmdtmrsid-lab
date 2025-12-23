@@ -59,9 +59,9 @@ AI Engineering Student from Egypt 🇪🇬
 
 ### 🚀 Projects
 
-- 🔢 **Student Management System (C++)**
-- 🧠 **AI Attendance System (Flask + OCR)**
-- 📊 **Data Analysis Projects using Python & Pandas**
+- 🔢 **Supermarket Management System (C++)**
+- 🧠 **Learning Algorithms Tool**
+- 📊 **MQ2 Gas Monitor**
 
 👉 Check pinned repositories below ⬇
 
