@@ -1,6 +1,6 @@
-<h2 align="center">
-Hi 👋! My name is MUHAMMAD TAMER <br>
-AI Engineering Student from Egypt 🇪🇬
+<h2 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=5000&color=00FF00&center=true&vCenter=true&repeat=false&lines=MUHAMMAD+TAMER" alt="Muhammad Tamer" />
+</p>
 </h2>
 
 ---
