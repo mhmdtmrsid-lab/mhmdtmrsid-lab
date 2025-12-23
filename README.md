@@ -63,14 +63,13 @@ AI Engineering Student from Egypt 🇪🇬
 - 🧠 **Learning Algorithms Tool**
 - 📊 **MQ2 Gas Monitor**
 
-👉 Check pinned repositories below ⬇
 
 ---
 
 ### 🌐 Connect With Me
 
 <div align="left">
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/mohamed-tamer-00b221328" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/mhmdtmrsid-lab" target="_blank">
