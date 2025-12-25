@@ -20,6 +20,7 @@ jobs:
           github_user_name: mhmdtmrsid-lab
           outputs: |
             dist/pacman.svg?palette=github-dark&color_pacman=#FFD700
+            [![Generate Pacman Contribution](https://github.com/mhmdtmrsid-lab/mhmdtmrsid-lab/actions/workflows/pacman.yml/badge.svg?branch=output&event=workflow_run)](https://github.com/mhmdtmrsid-lab/mhmdtmrsid-lab/actions/workflows/pacman.yml)
 
       - name: Publish Pacman
         uses: peaceiris/actions-gh-pages@v3
