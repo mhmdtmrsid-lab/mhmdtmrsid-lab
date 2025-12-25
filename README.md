@@ -1,4 +1,4 @@
-  <div align="center">
+  <div >
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Cairo&weight=700&size=40&duration=4000&pause=1500&color=E74C3C&center=true&vCenter=true&width=1000&lines=فَإِنَّ+مَعَ+الْعُسْرِ+يُسْرًا;With+hardship+comes+ease." />
   </p>
@@ -20,13 +20,6 @@
 - 📫 Reach me at: **mhmdtmrsid@gmail.com**
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmdtmrsid-lab&show_icons=true&theme=dracula&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdtmrsid-lab&layout=compact&theme=dracula" height="150"/>
-</div>
 
 ---
 
