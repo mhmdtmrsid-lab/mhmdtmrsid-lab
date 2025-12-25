@@ -99,7 +99,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mhmdtmrsid-lab/mhmdtmrsid-lab/output/pacman.svg" />
+<img src="https://raw.githubusercontent.com/mhmdtmrsid-lab/mhmdtmrsid-lab/output/pacman-contribution-graph-dark.svg" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:84C2C0,50:6DD5FA,100:A18AFF&height=100&section=footer&fontSize=90&fontAlignY=45&animation=fadeIn&stroke=12345&strokeWidth=50"/>
 
