@@ -7,10 +7,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Cairo&weight=700&size=40&duration=4000&pause=1500&color=E74C3C&center=true&vCenter=true&width=1000&lines=فَإِنَّ+مَعَ+الْعُسْرِ+يُسْرًا;With+hardship+comes+ease." />
   </p>
 
-<h2 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=5000&color=00FF00&center=true&vCenter=true&repeat=false&lines=MUHAMMAD+TAMER" alt="Muhammad Tamer" />
+<p align="center">
+  <img src="https://img.shields.io/badge/SURAH-AL--INSHIRAH-1a1a1a?style=for-the-badge&logo=codeforces&logoColor=E74C3C" />
+  <img src="https://img.shields.io/badge/PROBLEM-SOLVING-E74C3C?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-</h2>
 
 ---
 
