@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:84C2C0,50:6DD5FA,100:A18AFF&height=100&section=footer&fontSize=90&fontAlignY=45&animation=fadeIn&stroke=12345&strokeWidth=50&section=header"/>
+ 
+<br>
+  
   <div >
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Cairo&weight=700&size=40&duration=4000&pause=1500&color=E74C3C&center=true&vCenter=true&width=1000&lines=فَإِنَّ+مَعَ+الْعُسْرِ+يُسْرًا;With+hardship+comes+ease." />
@@ -95,6 +99,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mhmdtmrsid-lab/mhmdtmrsid-lab/output/pacman-contribution-graph-dark.svg" />
+<img src="https://raw.githubusercontent.com/mhmdtmrsid-lab/mhmdtmrsid-lab/output/pacman.svg" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:84C2C0,50:6DD5FA,100:A18AFF&height=100&section=footer&fontSize=90&fontAlignY=45&animation=fadeIn&stroke=12345&strokeWidth=50"/>
+
 
 ---
